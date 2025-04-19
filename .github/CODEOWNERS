@@ -1,4 +1,4 @@
-# The API governance team is the default owner for everything in the repo.
+google/bin/releases/api-linter/api-linterhttps://github.com/CACHIBOMBO2025/google.aip.dev/blob/master/serve.sh# The API governance team is the default owner for everything in the repo.
 # (Note: CODEOWNERS follows a "last match wins" system.)
 *                             @aip-dev/google
 
